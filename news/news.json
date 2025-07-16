@@ -1,32 +1,13 @@
 {
-  "items": [
+  "version": 1,
+  "articles": [
     {
-      "id": "1",
-      "title": "Welcome to Netrix!",
-      "date": "2025-07-15",
-      "excerpt": "We're excited to announce the official launch of Netrix, our new mod manager for Minecraft!",
-      "content": "After months of development and testing, Netrix is now live! This major update brings significant performance improvements, a carefully curated selection of new mods, and quality-of-life enhancements that will make your Minecraft experience better than ever.\n\nKey highlights:\n• 40% improved mod loading performance\n• 15 new mods including Create, Applied Energistics 2, and Thermal Expansion\n• Enhanced world generation with Biomes O' Plenty\n• New player-friendly spawn area with tutorials\n• Improved anti-grief protection\n• Daily events and challenges\n\nNetrix is now open to all players! Use the new mod manager to automatically download and install all required mods.",
-      "author": "CrashCraft Team",
-      "tags": ["server", "launch", "announcement", "mods"]
-    },
-        {
-      "id": "2",
-      "title": "Test",
-      "date": "2025-07-15",
-      "excerpt": "We're excited to announce the official launch of Netrix, our new mod manager for Minecraft!",
-      "content": "After months of development and testing, Netrix is now live! This major update brings significant performance improvements, a carefully curated selection of new mods, and quality-of-life enhancements that will make your Minecraft experience better than ever.\n\nKey highlights:\n• 40% improved mod loading performance\n• 15 new mods including Create, Applied Energistics 2, and Thermal Expansion\n• Enhanced world generation with Biomes O' Plenty\n• New player-friendly spawn area with tutorials\n• Improved anti-grief protection\n• Daily events and challenges\n\nNetrix is now open to all players! Use the new mod manager to automatically download and install all required mods.",
-      "author": "CrashCraft Team",
-      "tags": ["server", "launch", "announcement", "mods"]
-    },
-            {
-      "id": "3",
-      "title": "Another Test",
-      "date": "2025-07-15",
-      "excerpt": "We're excited to announce the official launch of Netrix, our new mod manager for Minecraft!",
-      "content": "After months of development and testing, Netrix is now live! This major update brings significant performance improvements, a carefully curated selection of new mods, and quality-of-life enhancements that will make your Minecraft experience better than ever.\n\nKey highlights:\n• 40% improved mod loading performance\n• 15 new mods including Create, Applied Energistics 2, and Thermal Expansion\n• Enhanced world generation with Biomes O' Plenty\n• New player-friendly spawn area with tutorials\n• Improved anti-grief protection\n• Daily events and challenges\n\nNetrix is now open to all players! Use the new mod manager to automatically download and install all required mods.",
-      "author": "CrashCraft Team",
-      "tags": ["server", "launch", "announcement", "mods"]
+      "id": 6,
+      "title": "CrashCraft 2.0 - Grand Reopening!",
+      "content": "After months of preparation...",
+      "author": "ServerAdmin",
+      "date": "2025-01-15",
+      "priority": "high"
     }
-  ],
-  "lastUpdated": "2025-07-15T20:30:00Z"
+  ]
 }
