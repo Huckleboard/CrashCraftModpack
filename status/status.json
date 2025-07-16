@@ -1,19 +1,16 @@
 {
-  "announcements": [
+  "status": [
     {
-      "id": "welcome-2025-01-16",
-      "title": "Status System Active",
-      "description": "The new status system is now live! Check here for maintenance updates and service announcements.",
-      "type": "announcement",
-      "severity": "low",
-      "services": ["All Services"],
-      "startTime": "2025-01-16T12:00:00Z",
-      "author": "CrashCraft Team",
-      "createdAt": "2025-01-16T12:00:00Z",
-      "updatedAt": "2025-01-16T12:00:00Z",
-      "isActive": true
+      "id": "maintenance-2025-01-15",
+      "title": "Scheduled Maintenance",
+      "message": "We will be performing scheduled maintenance on our authentication servers.",
+      "type": "maintenance",
+      "severity": "medium",
+      "services": ["Authentication", "Lobby"],
+      "startTime": "2025-01-15T02:00:00Z",
+      "endTime": "2025-01-15T04:00:00Z",
+      "active": true
     }
   ],
-  "lastUpdated": "2025-01-16T12:00:00Z",
-  "version": "1.0.0"
+  "updated": "2025-01-15T12:00:00Z"
 }
