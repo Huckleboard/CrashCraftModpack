@@ -9,7 +9,7 @@
       "services": ["Game Server", "Web Portal"],
       "startTime": "Tonight at 2:00 AM",
       "endTime": "4:00 AM EST",
-      "active": true
+      "active": false
     }
   ],
   "updated": 42
