@@ -1,11 +1,12 @@
 {
-  "version": 1,
+  "version": 2,
   "articles": [
     {
-      "id": 6,
-      "title": "CrashCraft 2.0 - Grand Reopening!",
-      "content": "After months of preparation...",
-      "author": "ServerAdmin",
+      "id": 1,
+      "title": "Article Title",
+      "excerpt": "Short summary for home widget",
+      "content": "Full detailed content for news page",
+      "author": "Author Name",
       "date": "2025-01-15",
       "priority": "high"
     }
