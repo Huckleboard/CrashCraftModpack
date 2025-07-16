@@ -1,16 +1,5 @@
 {
   "status": [
-    {
-      "id": "maint-1",
-      "title": "Scheduled Maintenance",
-      "message": "Server maintenance happening tonight.",
-      "type": "maintenance",
-      "severity": "medium",
-      "services": ["Game Server", "Web Portal"],
-      "startTime": "Tonight at 2:00 AM",
-      "endTime": "4:00 AM EST",
-      "active": false
-    }
   ],
-  "updated": 43
+  "updated": 1
 }
