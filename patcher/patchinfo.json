@@ -1,7 +1,7 @@
 {
-  "version": "1",
+  "version": "2",
   "type": "Forge",
-  "target":"1.20.1-forge-47.4.3",
-  "installerUrl": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.3/forge-1.20.1-47.4.3-installer.jar",
-  "message": "Netrix believes that you have not installed the Forge version of Minecraft. Please install Forge 1.20.1-47.4.3 to continue."
+  "target":"1.20.1-forge-47.4.0",
+  "installerUrl": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0-installer.jar",
+  "message": "Netrix believes that you have not installed the Forge version of Minecraft. Please install Forge 1.20.1-47.4.0 to continue."
 }
