@@ -1,13 +1,13 @@
 {
-  "version": 2,
+  "version": 3,
   "articles": [
     {
       "id": 1,
-      "title": "Article Title",
-      "excerpt": "Short summary for home widget",
-      "content": "Full detailed content for news page",
-      "author": "Author Name",
-      "date": "2025-01-15",
+      "title": "Netrix 1.0.4 Released!",
+      "excerpt": "Manage your mods and stay updated - Netrix 1.0.4 is here.",
+      "content": "Netrix 1.0.4 is now live! This custom launcher and mod manager is your all-in-one hub for the CrashCraft network and the upcoming modded server.\n\nWith Netrix, you can:\n- Keep your modpack up to date\n- Get server status updates\n- View news and announcements\n\nThis release brings key improvements and sets the stage for launch day.\n\n**Stay connected with Netrix.**",
+      "author": "Netrix Team",
+      "date": "2025-07-16",
       "priority": "high"
     }
   ]

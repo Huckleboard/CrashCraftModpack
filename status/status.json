@@ -1,5 +1,15 @@
 {
   "status": [
+    {
+      "id": "prelaunch-info",
+      "title": "Server Launch Incoming",
+      "message": "The servers are not yet online. Launch details will be announced soon. Stay tuned!",
+      "type": "maintenance",
+      "severity": "high",
+      "services": ["Modded Server", "Arcade", "Lobby"],
+      "startTime": "Launch Date TBD",
+      "active": true
+    }
   ],
-  "updated": 1
+  "updated": 2
 }
