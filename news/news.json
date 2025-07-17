@@ -14,7 +14,7 @@
       "id": 2,
       "title": "Netrix Source Code Released",
       "excerpt": "The full source code for Netrix is now available on GitHub for everyone to explore.",
-      "content": "I'm happy to announce that the complete source code for Netrix is now publicly available on GitHub!\n\n This means you can now see exactly how Netrix works under the hood - from modpack management to server status integration. \n\n I believe in transparency of the programs you run and this release is part of that!\n\n                    Check it out here: [https://github.com/StrataBytes/Netrix](https://github.com/StrataBytes/Netrix)",
+      "content": "I'm happy to announce that the complete source code for Netrix is now publicly available on GitHub!\n\n This means you can now see exactly how Netrix works under the hood - from modpack management to server status integration. \n\n I believe in transparency of the programs you run and this release is part of that!\n\n                    Check it out here: https://github.com/StrataBytes/Netrix",
       "author": "StrataBytes",
       "date": "2025-07-16",
       "priority": "low"
