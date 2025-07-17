@@ -1,14 +1,23 @@
 {
-  "version": 3,
+  "version": 4,
   "articles": [
     {
       "id": 1,
-      "title": "Netrix 1.0.4 Released!",
+      "title": "Welcome to Netrix!",
       "excerpt": "Manage your mods and stay updated - Netrix 1.0.4 is here.",
-      "content": "Netrix 1.0.4 is now live! This custom launcher and mod manager is your all-in-one hub for the CrashCraft network and the upcoming modded server.\n\nWith Netrix, you can:\n- Keep your modpack up to date\n- Get server status updates\n- View news and announcements\n\nThis release brings key improvements and sets the stage for launch day.\n\n**Stay connected with Netrix.**",
-      "author": "Netrix Team",
+      "content": "Netrix 1.0.4 is now live! This custom launcher and mod manager is your all-in-one hub for the CrashCraft network and the upcoming modded server. \n\n With Netrix, you can:\n  - Keep your modpack up to date\n  - Get server status updates\n  - View news and announcements\n\n This release brings key improvements and sets the stage for launch day.\n\n Stay connected with Netrix.",
+      "author": "StrataBytes",
       "date": "2025-07-16",
       "priority": "high"
+    },
+    {
+      "id": 2,
+      "title": "Netrix Source Code Released",
+      "excerpt": "The full source code for Netrix is now available on GitHub for everyone to explore.",
+      "content": "I'm happy to announce that the complete source code for Netrix is now publicly available on GitHub!\n\n This means you can now see exactly how Netrix works under the hood - from modpack management to server status integration. \n\n I believe in transparency of the programs you run and this release is part of that!\n\n                    Check it out here: [https://github.com/StrataBytes/Netrix](https://github.com/StrataBytes/Netrix)",
+      "author": "StrataBytes",
+      "date": "2025-07-16",
+      "priority": "low"
     }
   ]
 }
