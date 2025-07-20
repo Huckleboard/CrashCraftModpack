@@ -15,12 +15,12 @@
       "id": "maint-notice1",
       "title": "Server Test 1 Ending Soon",
       "message": "The server test 1 is ending tomorrow to provide server maintenance downtime for official launch.",
-      "type": "maintenance",
+      "type": "info",
       "severity": "high",
       "services": ["Modded Server, CrashCraft Network, Lobby, Arcade"],
       "startTime": "2025-07-20, 3pm MST (or earlier if needed)",
       "endTime": "2025-07-20, 10pm MST (or earlier if needed)",
-      "active": false
+      "active": true
     }
   ],
   "updated": 4
