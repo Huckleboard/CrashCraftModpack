@@ -1,11 +1,11 @@
 {
-  "version": 5,
+  "version": 6,
   "articles": [
     {
       "id": 1,
       "title": "Welcome to Netrix!",
       "excerpt": "Manage your mods and stay updated - Netrix 1.0.4 is here.",
-      "content": "Netrix 1.0.4 is now live! This custom launcher and mod manager is your all-in-one hub for the CrashCraft network and the upcoming modded server. \n\n With Netrix, you can:\n  - Keep your modpack up to date\n  - Get server status updates\n  - View news and announcements\n\n This release brings key improvements and sets the stage for launch day.\n\n Stay connected with Netrix.",
+      "content": "Netrix 1.0.4 is now live! This custom launcher and mod manager is your all-in-one hub for the CrashCraft network and the upcoming modded server. ",
       "author": "StrataBytes",
       "date": "2025-07-16",
       "priority": "high"
@@ -26,6 +26,15 @@
   "content": "Server Test 1 is now officially live! Join a limited-time test session and help fine-tune the experience ahead of the real launch.",
   "author": "StrataBytes",
   "date": "2025-07-19",
+  "priority": "medium"
+},
+    {
+  "id": 4,
+  "title": "Server Test 1 Concluded",
+  "excerpt": "Join the first live server test and help prepare for the full launch.",
+  "content": "Server Test 1 has now concluded. Please wait for further updates as everything is being prepared for the full launch.",
+  "author": "StrataBytes",
+  "date": "2025-07-20",
   "priority": "medium"
 }
 
