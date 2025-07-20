@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "articles": [
     {
       "id": 1,
@@ -20,23 +20,22 @@
       "priority": "low"
     },
     {
-  "id": 3,
-  "title": "Server Test 1 is Live!",
-  "excerpt": "Join the first live server test and help prepare for the full launch.",
-  "content": "Server Test 1 is now officially live! Join a limited-time test session and help fine-tune the experience ahead of the real launch.",
-  "author": "StrataBytes",
-  "date": "2025-07-19",
-  "priority": "medium"
-},
+      "id": 3,
+      "title": "Server Test 1 is Live!",
+      "excerpt": "Join the first live server test and help prepare for the full launch.",
+      "content": "Server Test 1 is now officially live! Join a limited-time test session and help fine-tune the experience ahead of the real launch.",
+      "author": "StrataBytes",
+      "date": "2025-07-19",
+      "priority": "medium"
+    },
     {
-  "id": 4,
-  "title": "Server Test 1 Concluded",
-  "excerpt": "Join the first live server test and help prepare for the full launch.",
-  "content": "Server Test 1 has now concluded. Please wait for further updates as everything is being prepared for the full launch.",
-  "author": "StrataBytes",
-  "date": "2025-07-20",
-  "priority": "medium"
-}
-
+      "id": 4,
+      "title": "Server Test 1 Concluded",
+      "excerpt": "Join the first live server test and help prepare for the full launch.",
+      "content": "Server Test 1 has now concluded. Please wait for further updates as everything is being prepared for the full launch.",
+      "author": "StrataBytes",
+      "date": "2025-07-20",
+      "priority": "medium"
+    }
   ]
 }
