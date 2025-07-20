@@ -1,16 +1,16 @@
 {
   "status": [
     {
-      "id": "prelaunch-info1",
-      "title": "Server Standby...",
-      "message": "Server test will commence shortly. Please wait for further updates.",
+      "id": "prelaunch-info2",
+      "title": "Server Test 1 Live",
+      "message": "The server test is now live! Join to help test the modded server.",
       "type": "info",
-      "severity": "high",
+      "severity": "low",
       "services": ["Modded Server"],
       "startTime": "Test 1 | 2025-07-19",
       "endTime": "Not scheduled",
       "active": true
     }
   ],
-  "updated": 2
+  "updated": 3
 }
