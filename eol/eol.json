@@ -1,4 +1,4 @@
 {
     "isEOL": false,
-    "contentIfTrue": "This version of Netrix is no longer supported. Please update to the next version here: "
+    "contentIfTrue": "This version of Netrix is out of date and may not function properly. Please update here: https://github.com/StrataBytes/Netrix/releases"
 }
