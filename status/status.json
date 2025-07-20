@@ -1,27 +1,16 @@
 {
   "status": [
-    {
-      "id": "prelaunch-info2",
-      "title": "Server Test 1 Live",
-      "message": "The server test is now live! Join to help test the modded server.",
-      "type": "info",
-      "severity": "low",
-      "services": ["Modded Server"],
-      "startTime": "Test 1 | 2025-07-19",
-      "endTime": "Not scheduled",
-      "active": true
-    },
         {
       "id": "maint-notice1",
       "title": "Server Test 1 Ending Soon",
       "message": "The server test 1 is ending tomorrow to provide server maintenance downtime for official launch.",
       "type": "info",
-      "severity": "high",
+      "severity": "low",
       "services": ["Modded Server, CrashCraft Network, Lobby, Arcade"],
       "startTime": "2025-07-20, 3pm MST (or earlier if needed)",
       "endTime": "2025-07-20, 10pm MST (or earlier if needed)",
       "active": true
     }
   ],
-  "updated": 5
+  "updated": 6
 }
