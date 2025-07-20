@@ -18,6 +18,16 @@
       "author": "StrataBytes",
       "date": "2025-07-16",
       "priority": "low"
-    }
+    },
+    {
+  "id": 3,
+  "title": "Server Test 1 is Live!",
+  "excerpt": "Join the first live server test and help prepare for the full launch.",
+  "content": "Server Test 1 is now officially live! Join a limited-time test session and help fine-tune the experience ahead of the real launch.",
+  "author": "StrataBytes",
+  "date": "2025-07-19",
+  "priority": "medium"
+}
+
   ]
 }
