@@ -2,15 +2,26 @@
   "status": [
         {
       "id": "maint-notice4",
-      "title": "CrashCraft Network Maintenance Notice",
-      "message": "The CrashCraft Network is currently undergoing maintenance for the upcoming launch of the Modded Server. Please stand by!",
+      "title": "Modded Server Maintenance Notice",
+      "message": "The modded server is currently undergoing maintenance for its upcoming launch. Please stand by!",
       "type": "maintenance",
       "severity": "low",
-      "services": ["Modded Server, CrashCraft Network, Lobby, Arcade"],
+      "services": ["Modded Server, CrashCraft Network"],
       "startTime": "2025-07-20, 5:35pm MST",
       "endTime": "Undecided end time.",
       "active": true
+    },
+            {
+      "id": "issue-notice1",
+      "title": "CrashCraft Network Core",
+      "message": "The CrashCraft Network's revival plans have been put on hold to prioritize the modded server launch. The core network will be back online once the modded server is stable.",
+      "type": "info",
+      "severity": "medium",
+      "services": ["CrashCraft Network, Lobby, Arcade"],
+      "startTime": "2025-07-28, 11:04pm CST",
+      "endTime": "After the modded server launch.",
+      "active": true
     }
   ],
-  "updated": 7
+  "updated": 8
 }
