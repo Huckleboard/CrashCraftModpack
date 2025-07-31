@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   "articles": [
     {
       "id": 1,
@@ -44,6 +44,15 @@
       "content": "The server is almost ready for its full launch! Right now, its just in the finalization stages of everything. There will be an update soon on the exact date and time, though this upcoming weekend is looking likely.\n\n Stay tuned for more information!",
       "author": "StrataBytes",
       "date": "2025-07-28",
+      "priority": "high"
+    },
+            {
+      "id": 6,
+      "title": "Mark your Calendars!",
+      "excerpt": "Server launching this weekend! At 11:00AM MST on Saturday, August 2nd.",
+      "content": "The server is officially launching this weekend! Join us at 11:00AM MST on Saturday, August 2nd for the grand opening.\n\n Get ready to explore, build and conquer. Can't wait to see you there!",
+      "author": "StrataBytes",
+      "date": "2025-07-31",
       "priority": "high"
     }
   ]

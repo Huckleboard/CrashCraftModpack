@@ -2,13 +2,13 @@
   "status": [
         {
       "id": "maint-notice4",
-      "title": "Modded Server Maintenance Notice",
-      "message": "The modded server is currently undergoing maintenance for its upcoming launch. Please stand by!",
+      "title": "Modded Server Standby",
+      "message": "Final tweaks and preparations are being made for the modded server launch. The server will be in standby mode until the official launch.",
       "type": "maintenance",
       "severity": "low",
       "services": ["Modded Server, CrashCraft Network"],
-      "startTime": "2025-07-20, 5:35pm MST",
-      "endTime": "Undecided end time.",
+      "startTime": "2025-07-31, 9:56 CST",
+      "endTime": "2025-08-02, 11:00am MST",
       "active": true
     },
             {
