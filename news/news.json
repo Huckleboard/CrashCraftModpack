@@ -1,5 +1,5 @@
 {
-  "version": 11,
+  "version": 12,
   "articles": [
     {
       "id": 1,
@@ -46,23 +46,32 @@
       "date": "2025-07-28",
       "priority": "high"
     },
-            {
-      "id": 6,
-      "title": "Mark your Calendars!",
-      "excerpt": "Server launching this weekend! At 11:00AM MST on Saturday, August 2nd.",
-      "content": "The server is officially launching this weekend! Join us at 11:00AM MST on Saturday, August 2nd for the grand opening.\n\n Get ready to explore, build and conquer. Can't wait to see you there!",
-      "author": "StrataBytes",
-      "date": "2025-07-31",
-      "priority": "high"
-    },
                 {
-      "id": 7,
+      "id": 6,
       "title": "Server Test 2 is Live!",
       "excerpt": "Join the second live server test and help prepare for the full launch. - check the status page for more details.",
       "content": "Server Test 2 is now officially live! Join a limited-time test session and help fine-tune the experience ahead of the real launch. - check the status page for more details.",
       "author": "StrataBytes",
       "date": "2025-07-31",
       "priority": "low"
+    },
+                    {
+      "id": 7,
+      "title": "Server Test 2 is closed!",
+      "excerpt": "Server Test 2 is now closed. If you played, please leave feedback on Discord!",
+      "content": "Server Test 2 is now officially closed.   If you missed it, don't worry - the full launch is coming soon!\n\n If you played, please leave feedback on Discord!",
+      "author": "StrataBytes",
+      "date": "2025-08-01",
+      "priority": "low"
+    },
+                {
+      "id": 8,
+      "title": "Mark your Calendars!",
+      "excerpt": "Server launching this weekend! At 11:00AM MST on Saturday, August 2nd.",
+      "content": "The server is officially launching this weekend! Join us at 11:00AM MST on Saturday, August 2nd for the grand opening.\n\n Get ready to explore, build and conquer. Can't wait to see you there!",
+      "author": "StrataBytes",
+      "date": "2025-08-01",
+      "priority": "high"
     }
   ]
 }
