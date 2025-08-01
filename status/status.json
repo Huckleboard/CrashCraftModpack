@@ -2,13 +2,13 @@
   "status": [
         {
       "id": "maint-notice4",
-      "title": "Modded Test 2",
-      "message": "The second modded server test is now live! Join us to help test the new features and stability just before launch.",
-      "type": "info",
+      "title": "Modded Server Downtime Till Launch",
+      "message": "The modded server will be down until the full launch on Saturday, August 2nd. Please check back then!",
+      "type": "maintenance",
       "severity": "medium",
       "services": ["Modded Server, CrashCraft Network"],
-      "startTime": "2025-07-31, Tonight",
-      "endTime": "2025-08-01, 10:00am CST",
+      "startTime": "2025-08-01, 1:00pm CT",
+      "endTime": "2025-08-02, 12:00pm CT",
       "active": true
     },
             {
@@ -18,10 +18,10 @@
       "type": "info",
       "severity": "medium",
       "services": ["CrashCraft Network, Lobby, Arcade"],
-      "startTime": "2025-07-28, 11:04pm CST",
+      "startTime": "2025-07-28, 11:04pm CT",
       "endTime": "After the modded server launch.",
       "active": true
     }
   ],
-  "updated": 9
+  "updated": 10
 }
