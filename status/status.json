@@ -2,13 +2,13 @@
   "status": [
         {
       "id": "maint-notice4",
-      "title": "Modded Server Standby",
-      "message": "Final tweaks and preparations are being made for the modded server launch. The server will be in standby mode until the official launch.",
-      "type": "maintenance",
-      "severity": "low",
+      "title": "Modded Test 2",
+      "message": "The second modded server test is now live! Join us to help test the new features and stability just before launch.",
+      "type": "info",
+      "severity": "medium",
       "services": ["Modded Server, CrashCraft Network"],
-      "startTime": "2025-07-31, 9:56 CST",
-      "endTime": "2025-08-02, 11:00am MST",
+      "startTime": "2025-07-31, Tonight",
+      "endTime": "2025-08-01, 10:00am CST",
       "active": true
     },
             {
@@ -23,5 +23,5 @@
       "active": true
     }
   ],
-  "updated": 8
+  "updated": 9
 }

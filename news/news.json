@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
   "articles": [
     {
       "id": 1,
@@ -54,6 +54,15 @@
       "author": "StrataBytes",
       "date": "2025-07-31",
       "priority": "high"
+    },
+                {
+      "id": 7,
+      "title": "Server Test 2 is Live!",
+      "excerpt": "Join the second live server test and help prepare for the full launch. - check the status page for more details.",
+      "content": "Server Test 2 is now officially live! Join a limited-time test session and help fine-tune the experience ahead of the real launch. - check the status page for more details.",
+      "author": "StrataBytes",
+      "date": "2025-07-31",
+      "priority": "low"
     }
   ]
 }
