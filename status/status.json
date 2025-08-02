@@ -2,13 +2,13 @@
   "status": [
         {
       "id": "maint-notice4",
-      "title": "Modded Server Downtime Till Launch",
-      "message": "The modded server will be down until the full launch on Saturday, August 2nd. Please check back then!",
-      "type": "maintenance",
-      "severity": "medium",
+      "title": "Modded Server Operational",
+      "message": "All systems online.",
+      "type": "info",
+      "severity": "low",
       "services": ["Modded Server, CrashCraft Network"],
-      "startTime": "2025-08-01, 1:00pm CT",
-      "endTime": "2025-08-02, 12:00pm CT",
+      "startTime": "",
+      "endTime": "",
       "active": true
     },
             {
