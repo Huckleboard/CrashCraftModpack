@@ -1,5 +1,5 @@
 {
-  "version": 13,
+  "version": 14,
   "articles": [
     {
       "id": 1,
@@ -80,6 +80,15 @@
       "content": "The server is launching tomorrow at 11:00AM MST! Get ready to join us for the start of a new adventure and experience everything the modpack has to offer.\n\n Make sure you have the latest version of Netrix and the CrashCraft Modpack installed, as some adjustments may be made just before launch. See you there!",
       "author": "StrataBytes",
       "date": "2025-08-01",
+      "priority": "high"
+    },
+                    {
+      "id": 10,
+      "title": "Welcome to the Modded Server!",
+      "excerpt": "The modded server is now live, following the uptime schedule.",
+      "content": "Im happy to say that the modded server is now live! It will be following the uptime schedule, so please check the status page for more details.\n\n Thank you all for your patience and support during the development and testing phases. I hope you enjoy exploring the new world and all the features it has to offer!",
+      "author": "StrataBytes",
+      "date": "2025-08-03",
       "priority": "high"
     }
   ]

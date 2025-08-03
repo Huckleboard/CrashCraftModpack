@@ -1,9 +1,9 @@
 {
   "status": [
         {
-      "id": "maint-notice4",
+      "id": "moddedserv",
       "title": "Modded Server Operational",
-      "message": "All systems online.",
+      "message": "All systems online. Operation hours, weekends Saturday 11am - 4pm MST & Sunday 4pm - 11pm MST",
       "type": "info",
       "severity": "low",
       "services": ["Modded Server, CrashCraft Network"],
@@ -12,7 +12,7 @@
       "active": true
     },
             {
-      "id": "issue-notice1",
+      "id": "network",
       "title": "CrashCraft Network Core",
       "message": "The CrashCraft Network's revival plans have been put on hold to prioritize the modded server launch. The core network will be back online once the modded server is stable.",
       "type": "info",
