@@ -3,7 +3,7 @@
         {
       "id": "moddedserv",
       "title": "Modded Server Operational",
-      "message": "All systems online. Operation hours, weekends Saturday 11am - 4pm MST & Sunday 4pm - 11pm MST",
+      "message": "All systems online. Operation hours: | [WEEKENDS] Saturday 11am - 4pm MST & Sunday 4pm - 11pm MST | [WEEKDAYS] Thursdays 5pm - 10pm MST",
       "type": "info",
       "severity": "low",
       "services": ["Modded Server, CrashCraft Network"],
