@@ -2,26 +2,26 @@
   "status": [
         {
       "id": "moddedserv",
-      "title": "Modded Server Operational",
-      "message": "All systems online. Operation hours: | [WEEKENDS] Saturday 11am - 4pm MST & Sunday 4pm - 11pm MST | [WEEKDAYS] Thursdays 5pm - 10pm MST |",
+      "title": "Modded Server On Hold",
+      "message": "Modded Server has been placed in an offline state for the time being. Depending on player interest, this may be indefinite.",
       "type": "info",
-      "severity": "low",
+      "severity": "high",
       "services": ["Modded Server, CrashCraft Network"],
-      "startTime": "",
+      "startTime": "2025-09-27, 1:00am MDT",
       "endTime": "",
       "active": true
     },
             {
       "id": "network",
       "title": "CrashCraft Network Core",
-      "message": "The CrashCraft Network's revival plans have been put on hold to prioritize the modded server launch. The core network will be back online once the modded server is stable.",
+      "message": "The CrashCraft Network will remain offline for the time being. I am working on a LTS configuration on very lightweight hardware as to not waste power on running empty servers for months using the legacy configuration. Thank you for understanding!",
       "type": "info",
       "severity": "medium",
       "services": ["CrashCraft Network, Lobby, Arcade"],
-      "startTime": "2025-07-28, 11:04pm CT",
-      "endTime": "After the modded server launch.",
+      "startTime": "2025-09-27, 1:00am MDT",
+      "endTime": "",
       "active": true
     }
   ],
-  "updated": 11
+  "updated": 12
 }
