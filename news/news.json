@@ -1,5 +1,5 @@
 {
-  "version": 15,
+  "version": 16,
   "articles": [
     {
       "id": 1,
@@ -89,6 +89,24 @@
       "content": "Im happy to say that the modded server is now live! It will be following the uptime schedule, so please check the status page for more details.\n\n Thank you all for your patience and support during the development and testing phases. I hope you enjoy exploring the new world and all the features it has to offer!",
       "author": "StrataBytes",
       "date": "2025-08-03",
+      "priority": "high"
+    },
+                            {
+      "id": 12,
+      "title": "CrashCraft Network Core Plans",
+      "excerpt": "Still working on that LTS configuration :/",
+      "content": "Its been a while since the CCN was online, but I really want to bring it back, with all legacy worlds included - not to play on as an event, but just to allow yall to check it out whenever, like a museum of sorts. The biggest hurdle yet to be cleared has been crunching down world sizes and optimizing everything to work on very low-powered hardware, so I wont be running multiple power-hungry servers with little to no interactions. Just though it put this here!",
+      "author": "StrataBytes",
+      "date": "2025-09-27",
+      "priority": "medium"
+    },
+                        {
+      "id": 13,
+      "title": "Modded Server On Hold",
+      "excerpt": "Server on hold until intrest returns...",
+      "content": "Hello! Hope yall are doing well. Wanted to put an update here that the Modded Server is in an offline state for now. Minecraft is a game that goes in waves, so this is perfectly normal (plus the school year!). That said, everyhting will be waiting for a potential come-back in the future!",
+      "author": "StrataBytes",
+      "date": "2025-09-27",
       "priority": "high"
     }
   ]
